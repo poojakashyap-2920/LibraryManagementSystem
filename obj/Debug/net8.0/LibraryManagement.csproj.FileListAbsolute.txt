@@ -1,0 +1,14 @@
+D:\C#\WebApi\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.exe
+D:\C#\WebApi\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.deps.json
+D:\C#\WebApi\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.runtimeconfig.json
+D:\C#\WebApi\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.dll
+D:\C#\WebApi\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.pdb
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.dll
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagement.dll
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
+D:\C#\WebApi\LibraryManagement\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll
